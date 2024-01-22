@@ -262,7 +262,6 @@ footer{
     justify-content: space-between;
     border-top: 1px solid lightgrey;
 }
-
 footer .total_que span{
     display: flex;
     user-select: none;
@@ -381,4 +380,3 @@ footer button.show{
     color: #fff;
     background: #007bff;
 }
-
